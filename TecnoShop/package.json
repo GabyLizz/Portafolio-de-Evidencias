@@ -1,0 +1,17 @@
+{
+  "name": "tecnoshop",
+  "version": "1.0.0",
+  "description": "Venta de productos tecnologicos",
+  "scripts": {
+    "dev": "nodemon /scr/app",
+    "start": "node ./src/app"
+  },
+  "author": "Gabriela Ortega",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
